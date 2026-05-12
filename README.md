@@ -25,3 +25,6 @@ Designed using Figma.
 
 ## Future Vision
 Integration with LinkedIn and real hiring systems.
+## Figma Prototype
+
+[Figma Prototype]([PASTE_YOUR_LINK_HERE](https://www.figma.com/proto/V0kxvpdtGukovoirUBdqCl/Untitled?node-id=0-1&t=4UUoLJcJFqFTVJLj-1))
